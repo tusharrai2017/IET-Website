@@ -1,3 +1,7 @@
-IET Website
+WEBSITE FOR IET
 
-To view the website go to https://saurabhg27.github.io/iet 
+To install dependencies
+> npm install
+
+To run 
+> node app.js
